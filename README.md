@@ -1,1 +1,1 @@
-# goit-typescript-hw-01
+# GOIT TypeScript Homework 1
